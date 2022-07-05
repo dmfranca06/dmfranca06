@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/dmfranca06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfranca1983&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfranca1983&layout=compact&langs_count=7&theme=highcontrast&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmfranca06&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmfranca06&layout=compact&langs_count=7&theme=highcontrast&locale=pt-BR"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="dmfranca-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
